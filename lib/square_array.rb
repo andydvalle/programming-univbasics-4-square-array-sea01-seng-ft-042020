@@ -5,6 +5,6 @@ def square_array(array)
     new_array << Math.sqrt(array[counter])
     counter += 1
   end
+  puts new_array
 end
 
-puts new_array
